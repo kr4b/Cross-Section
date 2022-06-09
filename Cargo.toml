@@ -1,0 +1,9 @@
+[package]
+name = "xsection"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+glium = "0.31"
+nalgebra = "0.31"
+image = "0.24"
